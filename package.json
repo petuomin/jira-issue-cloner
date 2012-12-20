@@ -1,0 +1,12 @@
+{
+  "name": "jira-issue-cloner",
+  "description": "CLI tool for cloning jira issues between projects.",
+  "version": "0.1.0",
+  "author": "Pasi Tuominen <pasi.e.tuominen@helsinki.fi>",
+  "dependencies": {
+	"docopt": "0.4.x",
+	"restler": "2.0.x"
+  },
+  "engine": "node >= 0.8.0"
+
+}
